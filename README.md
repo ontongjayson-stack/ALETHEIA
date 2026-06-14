@@ -89,7 +89,7 @@ To enable the AI Brain, add your [Anthropic API key](https://console.anthropic.c
 
 ## Live Demo
 
-🌐 **[aletheia.github.io](https://aletheia.github.io)** *(update with your actual GitHub Pages URL)*
+🌐 **[aletheia.github.io](file:///C:/Users/Onton/Downloads/aletheia.html)** *(update with your actual GitHub Pages URL)*
 
 ---
 
